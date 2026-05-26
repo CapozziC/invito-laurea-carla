@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import {
-  Calendar,
   Clock,
   MapPin,
   MessageCircle,
@@ -9,7 +8,6 @@ import {
   Code2,
 } from "lucide-react";
 import type { ReactNode } from "react";
-import { data } from "framer-motion/client";
 
 export default function InvitoLaurea() {
   const laurea = {
@@ -84,7 +82,6 @@ export default function InvitoLaurea() {
                     {" "}
                     Per favore conferma la tua presenza e il numero di persone
                     che verranno con te{" "}
-                  
                   </p>
                   <a
                     href={whatsappUrl}
@@ -172,9 +169,10 @@ export default function InvitoLaurea() {
                       coreggiosi un giro in centro a Napoli
                     </li>
                     <li>
-                      Parcheggio per festa: Cercate di aggregarvi il più possibile, i
-                      posti sono limitati. Si parcheggia "A lu spiazzale di
-                      Fernando Tufo" (RINGRAZIAMENTO SPECIALE A FERNANDO)
+                      Parcheggio per festa: Cercate di aggregarvi il più
+                      possibile, i posti sono limitati. Si parcheggia "A lu
+                      spiazzale di Fernando Tufo" (RINGRAZIAMENTO SPECIALE A
+                      FERNANDO)
                     </li>
                   </ul>
                 </div>
