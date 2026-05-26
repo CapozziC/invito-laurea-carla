@@ -13,8 +13,8 @@ export default function InvitoLaurea() {
   const laurea = {
     nome: "Carla",
     titolo: "Dottoressa in Informatica",
-    dataFesta: "Vennerdì 12 giugno, dalle 18:00 ",
-    dataDiscussione: "Martedì 9 giugno, ore 14:30",
+    dataFesta: "Venerdì 12 giugno, dalle 18:00 ",
+    dataDiscussione: "Martedì 9 giugno, ore 14:30, Aula Scipione Bobbio",
     dataFestaIso: "2026-06-12T18:00:00",
     luogoFesta: "Casa mia - Via sant'andrea 11, Montecalvo Irpino (AV)",
     luogoDiscussione:
