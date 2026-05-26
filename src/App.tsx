@@ -14,11 +14,13 @@ export default function InvitoLaurea() {
     nome: "Carla",
     titolo: "Dottoressa in Informatica",
     dataFesta: "Venerdì 12 giugno, dalle 18:00 ",
-    dataDiscussione: "Martedì 9 giugno, ore 14:30, Aula Scipione Bobbio",
+    dataDiscussione: "Martedì 9 giugno, ore 14:30",
     dataFestaIso: "2026-06-12T18:00:00",
     luogoFesta: "Casa mia - Via sant'andrea 11, Montecalvo Irpino (AV)",
-    luogoDiscussione:
+    luogoDiscussioneMappa:
       "Università degli Studi di Napoli - Piazzale Vincenzo Tecchio 80, Napoli",
+    luogoDiscussione:
+      "Università degli Studi di Napoli - Piazzale Vincenzo Tecchio 80, Napoli Aula Scipione Bobbio",
     luogoFestaMappa: "Contrada Bosco 25, Montecalvo Irpino (AV)",
     telefonoWhatsapp: "3343614657",
   };
@@ -106,7 +108,7 @@ export default function InvitoLaurea() {
                   </a>
                   <a
                     href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-                      laurea.luogoDiscussione,
+                      laurea.luogoDiscussioneMappa,
                     )}`}
                     target="_blank"
                     rel="noreferrer"
