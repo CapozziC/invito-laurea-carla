@@ -168,7 +168,7 @@ export default function InvitoLaurea() {
                     <li>Si dispensa anche dagli astemi</li>
                     <li>
                       Dopo la seduta ci sarà un piccolo rinfresco e per i più
-                      coreggiosi un giro in centro a Napoli
+                      coraggiosi un giro in centro a Napoli
                     </li>
                     <li>
                       Parcheggio per festa: Cercate di aggregarvi il più
