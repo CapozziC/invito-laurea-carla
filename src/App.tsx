@@ -41,7 +41,7 @@ export default function InvitoLaurea() {
   const secondi = Math.floor((diff / 1000) % 60);
 
   const messaggio = encodeURIComponent(
-    `Ciao ${laurea.nome}, confermo la mia presenza alla tua laurea! 🎓`,
+    `Ciao ${laurea.nome}, confermo la mia presenza alla tua laurea! Numero di persone: 🎓`,
   );
 
   const whatsappUrl = `https://wa.me/${laurea.telefonoWhatsapp}?text=${messaggio}`;
