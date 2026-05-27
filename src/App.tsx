@@ -16,11 +16,11 @@ export default function InvitoLaurea() {
     dataFesta: "Venerdì 12 giugno, dalle 19:00 ",
     dataDiscussione: "Martedì 9 giugno, ore 14:30",
     dataFestaIso: "2026-06-12T19:00:00",
-    luogoFesta: "Casa mia - Via sant'andrea 11, Montecalvo Irpino (AV)",
+    luogoFesta: "Casa mia - Contrada Cretazzo 11, Montecalvo Irpino (AV)",
     luogoDiscussioneMappa:
       "Università degli Studi di Napoli - Piazzale Vincenzo Tecchio 80, Napoli",
     luogoDiscussione:
-      "Università degli Studi di Napoli - Piazzale Vincenzo Tecchio 80, Napoli Aula Scipione Bobbio",
+      "Università degli Studi di Napoli - Piazzale Vincenzo Tecchio 80, Napoli, Aula Scipione Bobbio",
     luogoFestaMappa: "Contrada Bosco 25, Montecalvo Irpino (AV)",
     telefonoWhatsapp: "3343614657",
   };
